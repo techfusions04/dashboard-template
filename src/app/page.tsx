@@ -1,3 +1,10 @@
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "Dashboard | Home ",
+  description: "Dashboard Home Page",
+};
+
 const page = () => {
   return (
     <>

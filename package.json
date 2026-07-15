@@ -30,5 +30,8 @@
     "eslint-config-next": "16.2.10",
     "tailwindcss": "^4",
     "typescript": "^5"
-  }
+  },
+  "author": "Tech Fusions",
+  "license": "MIT",
+  "homepage": "https://github.com/techfusions04/dashboard-template.git"
 }
