@@ -53,11 +53,6 @@ const mes = [
     url: "#",
     icon: SquareTerminal,
   },
-  {
-    title: "Models",
-    url: "#",
-    icon: Bot,
-  },
 ];
 
 export function AppSidebar(props: React.ComponentProps<typeof Sidebar>) {
